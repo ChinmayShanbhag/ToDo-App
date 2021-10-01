@@ -20,7 +20,7 @@
 </template>
 
 <script>
-import {selectAll} from 'src/directives/directive-select-all'
+import {selectAll} from 'src/Directives/directive-select-all'
 import {mapState,mapActions} from 'vuex'
 export default {
     computed:{
