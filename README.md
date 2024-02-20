@@ -1,5 +1,5 @@
-# Quasar App (awesome-todo-vue-two)
-meow
+# Quasar App (ToDo app)
+
 A Quasar Framework app
 
 ## Install the dependencies
